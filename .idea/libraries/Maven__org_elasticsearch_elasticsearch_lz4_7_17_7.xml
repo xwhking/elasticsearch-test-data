@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.elasticsearch:elasticsearch-lz4:7.17.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../soft/maven/apache-maven-3.6.1/mvn_reps/org/elasticsearch/elasticsearch-lz4/7.17.7/elasticsearch-lz4-7.17.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../soft/maven/apache-maven-3.6.1/mvn_reps/org/elasticsearch/elasticsearch-lz4/7.17.7/elasticsearch-lz4-7.17.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../soft/maven/apache-maven-3.6.1/mvn_reps/org/elasticsearch/elasticsearch-lz4/7.17.7/elasticsearch-lz4-7.17.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
